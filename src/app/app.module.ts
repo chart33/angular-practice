@@ -22,6 +22,7 @@ import { MessagesComponent }    from './messages/messages.component';
     AppRoutingModule,
     HttpClientModule,
 
+    // this is a fake comment I'm adding to trigger a build...	
     // The HttpClientInMemoryWebApiModule module intercepts HTTP requests
     // and returns simulated server responses.
     // Remove it when a real server is ready to receive requests.
